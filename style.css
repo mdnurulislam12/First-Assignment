@@ -34,6 +34,7 @@ body{
     height: 700px;
     padding:10px 20px;
     border-radius:5px;
+
 }
 .Donate-today{
     margin-top:100px;
@@ -108,10 +109,35 @@ height:40px;
     background-color:white;
     border:2px solid yellow;
 }
-
+.Core-foundation{
+    padding-top:100px;
+}
+#button{
+    text-decoration:none;
+    
+    background-color:yellow;
+    border-radius:5px;
+}
+.core{
+   
+    background-color:blue;
+    width:600px;
+    height:400px;
+   
+}
+.Margin{
+    padding-left:30px;
+    padding-top:90px;
+    color:white;
+}
+.nevh{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
 
 .Updates{
-    padding-top:100px;
+    padding-top:100px
 }
 .box{
     width:500px;
